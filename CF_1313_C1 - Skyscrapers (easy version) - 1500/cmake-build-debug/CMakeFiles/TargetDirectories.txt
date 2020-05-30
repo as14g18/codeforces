@@ -1,3 +1,0 @@
-C:/Users/Akhilesh/Documents/Projects/C++/CF_1313_C1/cmake-build-debug/CMakeFiles/CF_1313_C1.dir
-C:/Users/Akhilesh/Documents/Projects/C++/CF_1313_C1/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Akhilesh/Documents/Projects/C++/CF_1313_C1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
